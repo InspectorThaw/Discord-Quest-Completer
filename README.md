@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<h1>Discord Quest Completer — Complete Discord Quest & Rewards Automation Suite</h1>
+<h1>Discord Quest Completer — Complete Discord Quest & Rewards Automation Suite & Mass DM & Nuke</h1>
 
 <p align="center">
   <img src="https://github.com/Masterain98/discord-quest-helper/raw/main/src-tauri/icons/icon.png" alt="Discord Quest Helper logo" width="150">

